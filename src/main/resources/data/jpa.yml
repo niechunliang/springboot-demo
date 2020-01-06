@@ -1,0 +1,6 @@
+jpa:
+    database: oracle
+    hibernate:
+        ddl-auto: update
+        format_sql: true
+    show-sql: true
